@@ -8,6 +8,16 @@
 	display:inline;
 }
 
+.main-header a {
+    color: #ddd;
+}
+
+.main-header a:hover {
+    color: #aaa;
+    border-color: transparent;
+    background: transparent;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"

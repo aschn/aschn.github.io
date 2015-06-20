@@ -1,15 +1,23 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Anna Schneider
+description: Using code and data to fight climate change at <a href="http://watttime.org/">WattTime</a>.
+    Pythonista, PhD, and a pretty good <a href="//oedelicious.blogspot.com">baker</a>.
+social_links: <a href="//twitter.com/windupanna"><i class="fa fa-twitter-square fa-2x"></i></a>
+    <a href="//github.com/aschn"><i class="fa fa-github-square fa-2x"></i></a>
+    <a href="//www.linkedin.com/in/aschn"><i class="fa fa-linkedin-square fa-2x"></i></a>
+    <a href="//www.facebook.com/anna.schneider.12139"><i class="fa fa-facebook-square fa-2x"></i></a>
+
+meta_description: "Anna Schneider on the internet"
+
+cover: 'assets/images/cover_crop.jpg'
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://annaschneider.org'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://annaschneider.org'
+author:         'Anna Schneider'
