@@ -16,7 +16,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://annaschneider.org'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-38209810-1'
 
 # Details for the RSS feed generator
 url:            'http://annaschneider.org'
