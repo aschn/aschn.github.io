@@ -9,7 +9,7 @@ meta_description: "Anna Schneider on the internet"
 
 cover: 'assets/images/cover_crop.jpg'
 
-markdown: redcarpet
+#markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
