@@ -6,6 +6,9 @@ date:   2017-04-05 09:18:00
 
 Yesterday I had the honor of giving a keynote at DjangoCon EU about our work at the [Unconscious Bias Project](http://unconsciousbiasproject.org/). It went pretty great! Seems like it was thought-provoking for many people, and even action-provoking for some :)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m guilty of unconsciously using &quot;hey guys&quot; as a default greeting. I&#39;m just going to stop using it. Great talk <a href="https://twitter.com/windupanna">@windupanna</a> <a href="https://twitter.com/hashtag/djangocon?src=hash">#djangocon</a> <a href="https://t.co/pwTLqy07of">https://t.co/pwTLqy07of</a></p>&mdash; Frank Wiles (@fwiles) <a href="https://twitter.com/fwiles/status/849161016734830592">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 I also have a bunch of fun ideas of things to improve next time I give the talk. If you want to see the updated version of the workshop at your company or event, [let me know](mailto:annarschneider@gmail.com)! Plus, now is your chance to get in as one of UBP's very first supporters: [http://tiny.cc/donate2ubp](http://tiny.cc/donate2ubp)
 
 UBP is working on figuring out the best way to license and distribute our content, so I'm not going to post the slides quite yet. (Any suggestions on good licensing models would be most welcome!) In the meantime, I'll refer you to the fantastic summary in [this post](https://cutebit.de/articles/djangocon-europe-2017-navigating-unconscious-bias/) by [@rixx](https://twitter.com/rixxtr). And here are all of the resources I referenced:
