@@ -6,7 +6,7 @@ date:   2017-04-05 09:18:00
 
 Yesterday I had the honor of giving a keynote at DjangoCon EU about our work at the [Unconscious Bias Project](http://unconsciousbiasproject.org/). It went pretty great! Seems like it was thought-provoking for many people, and even action-provoking for some :)
 
-I also have some ideas of things to improve next time I give the talk. If you want to see the updated version of the workshop at your company or conference, [let me know](mailto:annarschneider@gmail.com)! Plus, now is your chance to get in as one of UBP's very first supporters: http://tiny.cc/donate2ubp
+I also have some ideas of things to improve next time I give the talk. If you want to see the updated version of the workshop at your company or conference, [let me know](mailto:annarschneider@gmail.com)! Plus, now is your chance to get in as one of UBP's very first supporters: [http://tiny.cc/donate2ubp](http://tiny.cc/donate2ubp)
 
 If you missed the talk, or even if you were in the room, you can get a fantastic summary of what I talked about in [this post](https://cutebit.de/articles/djangocon-europe-2017-navigating-unconscious-bias/) by [@rixx](https://twitter.com/rixxtr). 
 
